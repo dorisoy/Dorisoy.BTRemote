@@ -1,14 +1,21 @@
 # Sony FCB-EV9520L 蓝牙无线遥控器设计方案
 
-> 版本：V1.0  
-> 日期：2026-03-27  
-> 项目代号：BT-CAM-CTRL  
+基于 USB TYPE-C 编码采集模块，为 Sony FCB-EV9520L 30倍光学变焦摄像机芯设计的一套蓝牙无线遥控系统。
 
 ---
 
 ## 屏幕
 
+<table width="100%">
+<tr>
+<td >
 <img src="/遥控器.png"/>
+</td>
+<td>
+    <img src="/板子.png"/>
+</td>
+ </tr>
+</table>
 
 ## 一、项目概述
 
