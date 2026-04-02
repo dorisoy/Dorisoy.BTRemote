@@ -2,6 +2,8 @@
 
 基于 USB TYPE-C 编码采集模块，为 Sony FCB-EV9520L 30倍光学变焦摄像机芯设计的一套蓝牙无线遥控系统。
 
+### [演示地址](https://remote.unitos.cn/) | [源码下载](https://shop.unitos.cn/)
+
 ---
 
 ## 屏幕
